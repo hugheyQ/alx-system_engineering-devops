@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R -type d ./*
+chmod -R -type d u+x ./*
