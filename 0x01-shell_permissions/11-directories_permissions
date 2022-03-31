@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod ugo+x -r .
+sudo chmod 777 -r .
