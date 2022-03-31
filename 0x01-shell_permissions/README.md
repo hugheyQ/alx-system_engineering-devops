@@ -1,3 +1,3 @@
-#SHELL PERMISSIONS#
+# SHELL PERMISSIONS
 
-##0-im-betty##
+## 0-im-betty 
